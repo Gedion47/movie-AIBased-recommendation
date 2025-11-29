@@ -13,7 +13,7 @@ export default function Footer() {
             &copy; {year} MovieBoard. All rights reserved.
           </p>
           <p className="text-muted-foreground mt-1">
-            Built by <span className="font-semibold">Eyuel M, Gedlie</span>.
+            Built by <span className="font-semibold">Gedion A. Temiss</span>.
           </p>
         </div>
         <div className="flex items-center gap-4">
