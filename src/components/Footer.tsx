@@ -18,14 +18,14 @@ export default function Footer() {
         </div>
         <div className="flex items-center gap-4">
           <Link
-            href="https://github.com/eyumazi"
+            href="https://github.com/gedion47"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
-            aria-label="GitHub profile of eyumazi"
+            aria-label="GitHub profile of Gedion47"
           >
             <Github className="w-5 h-5" />
-            <span className="hidden sm:inline">github.com/eyumazi</span>
+            <span className="hidden sm:inline">github.com/Gedion47</span>
           </Link>
         </div>
       </div>
